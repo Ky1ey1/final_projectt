@@ -1,0 +1,3 @@
+To see shiny app, run the following in R:
+library("shiny")
+shiny::runGitHub('Ky1ey1/final_projectt')
